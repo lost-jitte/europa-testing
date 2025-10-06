@@ -31,5 +31,10 @@ public class EuropaItems {
             flammability = 1.5f;
             explosiveness = 0.5f;
         }};
+        europaItems.addAll(
+                lime,
+                rust, concrete,
+                sulfur
+        );
     }
 }
