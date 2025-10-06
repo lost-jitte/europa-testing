@@ -9,9 +9,9 @@ import mindustry.gen.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-public class ExampleJavaMod extends Mod{
+public class Europa extends Mod{
 
-    public ExampleJavaMod(){
+    public Europa(){
         Log.info("Loaded ExampleJavaMod constructor.");
 
         //listen for game load event
