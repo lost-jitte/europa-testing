@@ -1,4 +1,4 @@
-package europa.content
+/*package europa.content
 
 import arc.Core;
 import arc.graphics.Color;
@@ -96,3 +96,4 @@ public class EuropaBlocks {
         }};
     }
 }
+*/
